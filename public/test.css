@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 10vw;
+}
+
+.name-form {
+  padding: 1vw;
+}
+
+.checklist {
+  padding: 1vw;
+}
+
+#youtube-vid {
+  padding: 1vw;
+}
+
+.spacing-positioning {
+  margin: 1vw;
+  border: 1px solid black;
+  height: 150px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.grey-box {
+  margin: 10px;
+  background-color: grey;
+  height: 130px;
+  width: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
